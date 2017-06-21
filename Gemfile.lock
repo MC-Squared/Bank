@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chartkick (2.2.4)
+    qif (1.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  chartkick
+  qif
+
+BUNDLED WITH
+   1.14.4
